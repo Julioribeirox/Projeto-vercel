@@ -56,13 +56,16 @@ document.getElementById('btnAtracoes').addEventListener('click', function () {
     document.getElementById('informacao').innerHTML = `
         <div class="atracoes-container">
             <h2>Atrações na Lagoa</h2>
+            
             <p>A Lagoa do Guapé possui diversas atrações para todas as idades. Você pode aproveitar:</p>
+            <br>
             <ul>
                 <li>🌿 <b>Trilha para caminhada</b></li>
                 <li>🏍️ <b>Pista de motocross</b></li>
                 <li>🎠 <b>Parquinho para crianças</b></li>
                 <li>🚣 <b>Esporte local: Caiaque Polo!</b></li>
             </ul>
+            <br>
 
             <h2>Caiaque Polo🚣</h2>
             <p>O Caiaque Polo é um dos esportes mais praticados na Lagoa do Guapé. Veja algumas imagens:</p>
@@ -71,24 +74,28 @@ document.getElementById('btnAtracoes').addEventListener('click', function () {
                 <img src="imagens/cai.jpg" alt="Equipe jogando caiaque polo" class="zoomable">
                 <img src="imagens/cai2.jpg" alt="Partida de caiaque polo" class="zoomable">
             </div>
+            <br>
 
             <h2>Pórtico do Parque</h2>
             <p>Um dos pontos mais fotografados da região!</p>
             <div class="atracoes-grid">
                 <img src="imagens/letreiro.webp" alt="Letreiro da Lagoa do Guapé" class="zoomable">
             </div>
+            <br>
 
             <h2> 🎠Parquinho para crianças </h2>
             <p>Um parque lindo para a criançada se divertir! </p>
             <div class="atracoes-grid">
                 <img src="imagens/parque.jpg" alt="Parquinho infantil" class="zoomable">
             </div>
+            <br>
 
             <h2> 🌿 Trilha para caminhada </h2>
             <p>Uma trilha leve e agradável, perfeita para quem quer se conectar com a natureza e recarregar as energias com uma boa caminhada.</p>
             <div class="atracoes-grid">
                 <img src="imagens/caminhada.jpg" alt="Trilha ecológica da lagoa" class="zoomable">
             </div>
+            <br>
 
             <h2> 🏍️ Pista de motocross </h2>
             <p>Uma pista desafiadora e cheia de adrenalina, ideal para os apaixonados por motocross que buscam emoção em cada curva e salto.</p>
