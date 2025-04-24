@@ -432,3 +432,12 @@ body.dark-mode #informacao p {
     color: #ffffff;
     box-shadow: 0 2px 8px rgba(255, 255, 255, 0.1);
 }
+#informacao p {
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 2rem;
+    background: #f0f8ff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
