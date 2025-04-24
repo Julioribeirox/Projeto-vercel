@@ -54,7 +54,7 @@ document.getElementById('btnAtracoes').addEventListener('click', function () {
                 <img src="imagens/cai2.jpg" alt="Caiaque polo" class="zoomable">
             </div>
 
-            <h2>Letreiro da Lagoa</h2>
+            <h2>Pórtico do parque</h2>
             <p>Um dos pontos mais fotografados da região!</p>
 
             <div class="atracoes-grid">
